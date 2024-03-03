@@ -1,6 +1,6 @@
 let availableQuesions = [];
 let questions = [];
-let jsonQuestions = '../cauhoi/cauhoi.json';
+let jsonQuestions = 'https://nghhie.github.io/LTW_TH1/cauhoi/cauhoi.json';
 
 fetch(jsonQuestions)
     .then((res) => {
