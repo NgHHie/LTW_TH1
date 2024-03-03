@@ -1,0 +1,292 @@
+ 
+  .pick {
+    background-color: #578fde !important;
+  }
+  
+
+:root {
+  /* background-color: #d8cdcd; */
+  background-color: #f0f0f0;
+  /* font-size: 62.5%; */
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: none;
+  flex-wrap: wrap;
+  gap: 10px;
+  /* justify-content: space-between; */
+  position: relative;
+
+  margin: 0 auto;
+  padding: 2rem;
+  padding-top: 40px;
+}
+
+#cauhoi {
+  max-width: 100%;
+  flex: 1;
+  background-color: white;
+  padding: 20px;
+  padding-top: 0;
+  font-size: 16px;
+  padding-bottom: 50px;
+}
+#action {
+  background-color: white;
+  width: 220px;
+  margin-left: auto;
+  padding: 1rem;
+  height: fit-content;
+  font-size: 16px;
+  position: relative;
+  
+}
+#countdown {
+  font-weight: 600;
+  font-size: 20px;
+  display: flex;
+  margin: 10px 0;
+}
+
+@media (max-width: 600px) {
+  #action,
+  #cauhoi {
+      width: 100%; 
+  }
+}
+
+.stt {
+  background-color: #e18e8e;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 0.3rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.container-cauhoi {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.choice {
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: #d8cdcd;
+  padding: 10px;
+}
+
+#btn-nopbai, #confirm-btn {
+  background-color: #dfc2c2;
+  font-size: 20px;
+  width: 100%;
+  padding: 5px;
+  border-radius: 0.3rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#blockDiv {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block {
+  display: inline-flex;
+  border: 1px solid;
+  border-radius: 0.2rem;
+  font-size: 10px;
+  font-weight: 600;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  cursor: pointer;
+}
+
+.incorrect {
+  background-color: #e18e8e !important;
+}
+
+.correct {
+  background-color: #8ee198;
+}
+
+#finalScore {
+  margin-left: auto;
+}
+#finalCorrect {
+  margin-left: auto;
+}
+
+.text-answer {
+  width: 100%;
+  height: 100px;
+  padding: 1px;
+  border-color: #ddd;
+  font-size: 16px;
+  resize: none;
+}
+.loai {
+  margin-bottom: 0px;
+}
+#loai1 {
+  margin-top: 20px;
+}
+#loai2, #loai3, #loai4 {
+  margin-top: 70px;
+}
+
+/* Header Styles */
+.header {
+
+  position: fixed;
+  width: 100%;
+  background-color: #ad171c;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  z-index: 1;
+  display: flex;
+  justify-items: center;
+}
+
+.nav-logo {
+  display: flex;
+  /* justify-items: center; */
+
+}
+
+.img-logo {
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 5px;
+
+  margin-left: 15px;
+  /* Đặt khoảng cách bao quanh hình ảnh */
+}
+
+
+
+.nav-logo img {
+  width: 40px;
+  height: 40px;
+  display: block;
+
+
+
+}
+
+.nav {
+  display: flex;
+  position: absolute;
+  font-size: 20px;
+  right: 200px;
+}
+
+.nav-element {
+  margin: 15px 20px;
+}
+
+.avt-logo {
+  display: flex;
+  position: absolute;
+  right: 30px;
+  justify-items: center;
+  margin-top: 6px;
+}
+
+.img-avt {
+  background-color: #fff;
+  border-radius: 50%;
+  /* padding: 5px; */
+
+  margin-left: 10px;
+  /* Đặt khoảng cách bao quanh hình ảnh */
+}
+
+.avt-logo img {
+  width: 40px;
+  height: 40px;
+  display: block;
+
+
+
+}
+
+.header-title {
+  /* display: flex; */
+  font-size: 30px;
+  margin-left: 20px;
+  font-weight: 550;
+  /* text-align: center; */
+  margin-top: auto;
+  margin-bottom: auto;
+  color: white;
+}
+
+.header-title a {
+  display: flex;
+  align-items: center;
+
+}
+
+
+/* Form */
+.information {
+  display: flex;
+  width: 50%;
+  padding-top: 100px; 
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-left: 20px; */
+  /* height: 300px; */
+  
+  /* border-radius: 10px; */
+  /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
+  
+  /* flex-direction: column; */
+}
+@media (max-width: 800px) {
+  .information {
+    width: 100%;
+  }
+}
+
+
+.student-information {
+  padding: 20px;
+  margin: 30px;
+  background-color: #fff;
+  border: 2px solid #ad171c;
+  width: 100%;
+}
+
+.student-information input {
+  width: 100%;
+  height: 30px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+
+.student-information label {
+  display: block;
+  margin: 5px 0px;
+  font-weight: 600;
+}

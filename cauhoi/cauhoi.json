@@ -1,0 +1,266 @@
+[   
+    {
+        "question": "1+1=2 đúng hay sai?",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 1",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+      },
+    {
+        "question": "Tìm số nguyên dương n nhỏ nhất để số z = (-\u221A3 + i)^n là một số thực",
+        "choice1": "A. n = 12",
+        "choice2": "B. n = 8",
+        "choice3": "C. n = 6",
+        "choice4": "D. n = 3",
+        "answer": 3
+      },
+    {
+      "question": "Sự xuất hiện của nhà nước cổ đại nào sau đây có nguyên nhân là do mâu thuẫn giai cấp gay gắt đến mức không thể điều hòa được",
+      "choice1": "A. Nhà nước Giéc – manh",
+      "choice2": "B. Nhà nước Rôma",
+      "choice3": "C. Nhà nước Aten",
+      "choice4": "D. Các Nhà nước phương Đông.",
+      "answer": 2
+    },
+    {
+      "question": "Câu hỏi loại 2",
+      "choice1": "A. ",
+      "choice2": "B. ",
+      "choice3": "C. ",
+      "choice4": "D. ",
+      "answer": 1
+    },
+    {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+      "answer": 1
+    },
+    {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+      "answer": 1
+    },
+    {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+      "answer": 1
+    },
+    {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": 1
+      },
+      {
+        "question": "Câu hỏi loại 2",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": 1
+      },
+
+
+      {
+        "question": "Những thứ có màu vàng? (Chọn nhiều đáp án)",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      {
+        "question": "Câu hỏi loại 3",
+        "choice1": "A. ",
+        "choice2": "B. ",
+        "choice3": "C. ",
+        "choice4": "D. ",
+        "answer": [1,2,3]
+      },
+      
+      
+      {
+        "question": "Bạn thích gì nhất",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      },
+      {
+        "question": "Câu hỏi loại 4",
+        "answer": "Ngủ"
+      } 
+  ]

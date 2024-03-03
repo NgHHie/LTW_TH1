@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Kết quả</title>
+    <link rel="stylesheet" href="../css/game.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="end" class="flex-center flex-column">
+        
+      </div>
+    
+      <div id="container-subject">
+        <div id="subject"></div>
+        <button id="btn-thoat" class="btn" onclick="goHome()">Trang chủ</button>
+      </div>
+      <div id="cauhoi"></div>
+      <div id="action">
+        <div id="countdown">
+          <p>Điểm của bạn:</p>
+          <p id="finalScore"></p>
+        </div>
+        <div id="countdown">
+          <p>Số câu đúng:</p>
+          <p id="finalCorrect"></p>
+        </div>
+        <button id="btn-nopbai" class="btn" onclick="goGame()">Làm lại</button>
+        <div id="trangthai"></div>
+      </div>
+    
+    </div>
+    <script src="../javascript/end.js"></script>
+  </body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Trắc nghiệm</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="../css/game.css" />
+  </head>
+  <body>
+    <div class="header">
+      <div class="nav-logo">
+        <div class="img-logo"> <img src="https://code.ptit.edu.vn/2020/images/logo_ptit.png" alt="Logo"></div>
+      </div>
+      <div class="header-title">
+          PTIT TEST
+      </div>
+      <div class="avt-logo">
+        <div class="img-avt"> <img src="https://code.ptit.edu.vn/2020/images/avt.png" alt="Logo"></div>
+      </div>
+    </div>
+
+    <div id="form" class="information">
+      <div class="student-information">
+
+          <label for="student-code">Mã sinh viên: </label>
+          <input type="text" name="student-code" id="student-code" required>
+          <br>
+
+          <label for="name">Họ và tên: </label>
+          <input type="text" name="name" id="name" required>
+
+          <br>
+
+          <label for="class-name">Lớp: </label>
+          <input type="text" name="class-name" id="class-name" required>
+          <br>
+          <label for="dob">Ngày sinh: </label>
+          <input type="text" name="dob" id="dob" required>
+          <br>
+          <button type="submit" id="confirm-btn" onclick="render()">Xác nhận</button>
+
+      </div>
+  </div>
+
+    
+    <div class="container">
+      <div id="cauhoi"></div>
+      <div id="action">
+        <p>Thời gian làm bài: </p>
+        <div id="countdown" class="div_right"></div>
+        <button id="btn-nopbai" onclick="nopbai()">Nộp bài</button>
+        <div id="trangthai"></div>
+      </div>
+    </div>
+    
+    <script src="../javascript/game.js"></script>
+  </body>
+</html>
